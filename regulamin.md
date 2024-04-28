@@ -1,5 +1,5 @@
 Regulamin Aplikacji Przygody Bobra Poligrafa
-z dnia 26 stycznia 2024 r.
+z dnia 29 kwietnia 2024 r.
 Postanowienia wstępne
 1.	Dostawcą aplikacji Przygody Bobra Poligrafa PWPW jest Polska Wytwórnia Papierów Wartościowych S.A. z siedzibą w Warszawie, Sanguszki 1, 00-222 Warszawa, zarejestrowana przez sąd rejonowy dla m.st Warszawy, XII Wydział Gospodarczy pod nr KRS 0000062594, NIP: 525-000-10-90, kapitał zakładowy 130 650 380,00 PLN wpłacony w całości.
 2.	Adresem elektronicznym Dostawcy jest pwpw@pwpw.pl
