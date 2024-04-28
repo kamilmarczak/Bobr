@@ -5,7 +5,7 @@ Postanowienia wstępne
 2.	Adresem elektronicznym Dostawcy jest pwpw@pwpw.pl
 3.	Regulamin określa warunki techniczne korzystania z Aplikacji, jej funkcje, prawa i obowiązki wynikające z Aplikacji oraz politykę prywatności.
 4.	Dostawca świadczy Usługi zgodnie z Regulaminem, a Użytkownik zobowiązuje się przestrzegać [Regulaminu](https://github.com/kamilmarczak/Bobr/edit/main/regulamin.md).
-.5.	Obowiązująca treść Regulaminu jest udostępniana bezpłatnie na stronie internetowej Dostawcy pod adresem Regulamin
+5.	Obowiązująca treść Regulaminu jest udostępniana bezpłatnie na stronie internetowej Dostawcy pod adresem Regulamin
 6.	Dostawcy przysługują autorskie prawa majątkowe do Aplikacji i utworów w niej zawartych w rozumieniu ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, poza elementami opartymi na licencjach dostawców (podmiotów) trzecich.
 7.	Aplikacja do swojego działania wykorzystuje komponenty lub utwory oparte na licencjach dostawców (podmiotów) trzecich:
 a.	Unity Companion License – w zakresie silnika gier,
